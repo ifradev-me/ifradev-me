@@ -128,7 +128,7 @@ Platform sosial edukasi budaya Aceh untuk generasi muda — chatbot AI literasi 
 ## Currently Working On / Sedang Dikerjakan
 
 - 🩺 **ESneeze** — AI-powered respiratory mask for Influenza A screening (ESP32 + TFLite + React Native)
-- 🌐 **Kiriman** — Ephemeral file transfer via Telegram, no account required
+- 🌐 **Driply** — Smart fashion assistant for your store (Whatsapp Bot + n8n + Postgres + LLM)
 
 ---
 
